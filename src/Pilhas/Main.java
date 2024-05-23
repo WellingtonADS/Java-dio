@@ -19,8 +19,9 @@ public class Main {
         minhaPilha.push(new No(99));
         System.out.println(minhaPilha);
         System.out.println(minhaPilha.top());
+        System.out.println(minhaPilha);
 
-        
+
     }
 
 }
